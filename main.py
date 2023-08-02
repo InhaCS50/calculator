@@ -1,16 +1,12 @@
 while True:
      print("Assalomu aleykum !!")
      print("Calculator app !!")
-     # Add Numbers
      print("qo'shish uchun ['add'] ni bosing")
-     # Subtract Numbers
      print("ayirish uchun ['subtract'] ni bosing")
-     # Multiply Numbers
      print("ko'paytirish uchun ['multiply'] ni bosing")
-     # Divide Numbers
      print("bo'lish uchun ['divide'] ni bosing")
-     # Quiting Program
      print("chiqish uchun ['quit'] ni bosing")
+     
      user_input = input("yozing: ")
      if user_input == "quit":
           print("chiqish")
